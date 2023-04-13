@@ -1,2 +1,2 @@
 # ph_comps23
-A repo for all code we have made/used/implemented for our comps on persistent homology.
+A repo for all code we have made/used/implemented for our comps on persistent homology. We have two main algorithms of interest, one is the net tree algorith from Don Sheehy's (among others') work. A description can be found in the paper https://arxiv.org/pdf/1203.6786.pdf. We also have edited code from ripser which describes sparse filtrations and generates persistence diagrams and barcodes. We can compute the homology of several surfaces and see what aspects persist!
